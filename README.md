@@ -50,5 +50,5 @@ MIT
 
 
 > If this saved you time and mental energy,
-feel free to [support me](buymeacoffee.com/echozhao) — but there is no obligation.
+feel free to [support me](https://buymeacoffee.com/echozhao) — but there is no obligation.
 
