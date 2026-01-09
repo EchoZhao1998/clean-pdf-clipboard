@@ -33,8 +33,9 @@ This tool cleans the clipboard before you paste.
 
 ## Setup
 
-See the step-by-step guide in the Figma page:
-[link here]
+See the step-by-step guide below:
+<img width="1200" height="1802" alt="PDF tool-2" src="https://github.com/user-attachments/assets/7a631781-94a8-4b2d-8f2a-cc908c09c311" />
+
 
 Or:
 - Open Automator
