@@ -1,3 +1,12 @@
+"""
+Clean PDF text from the clipboard:
+- Merge hard line breaks inside paragraphs
+- Preserve paragraph breaks
+- Fix hyphenation (gen- der → gender)
+
+Designed for macOS clipboard workflows.
+"""
+
 pbpaste | python3 -c '
 import sys
 
